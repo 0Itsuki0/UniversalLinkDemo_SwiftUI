@@ -12,4 +12,4 @@ I have also uploaded the code for setting up local host [here](https://github.co
 2. Under project > Signing & Capability, add the host https address (without the https) to the Associated Domain section. For example, if you have `https://itsuki.example.com`, for your host domain, your entry will look like `applinks:itsuki.example.com`
 
 ---
-For Further details on handling universal link, please check out [SwiftUI: Handle Universal Link (Show Specific View and Pass Data)]().
+For Further details on handling universal link, please check out [SwiftUI: Handle Universal Link (Show Specific View and Pass Data)](https://medium.com/@itsuki.enjoy/swiftui-handle-universal-link-show-specific-view-and-pass-data-9c8ee898bef7).
